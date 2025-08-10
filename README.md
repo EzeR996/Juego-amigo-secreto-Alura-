@@ -27,7 +27,7 @@ Permite agregar nombres a una lista y seleccionar aleatoriamente un ganador.
 
 ## Visualizacion
 
-¡[Alt Image](https://github.com/EzeR996/Juego-amigo-secreto-Alura-/blob/c64f44143e3f4f6fe0486bb335e63d39a65e28cc/cap.as.jpg)
+[Alt Image](https://github.com/EzeR996/Juego-amigo-secreto-Alura-/blob/c64f44143e3f4f6fe0486bb335e63d39a65e28cc/cap.as.jpg)
 
 ---
 
