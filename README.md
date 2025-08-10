@@ -1,7 +1,7 @@
 
 # Juego del amigo secreto
 
-Proyecto simple desarrollado en **HTML**, **CSS** y **JavaScript** para realizar un sorteo de un *Amigo Secreto*.  
+Proyecto simple desarrollado en **JavaScript** para realizar un sorteo de un *Amigo Secreto*.  
 Permite agregar nombres a una lista y seleccionar aleatoriamente un ganador.
 
 ---
